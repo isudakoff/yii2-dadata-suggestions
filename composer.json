@@ -1,0 +1,36 @@
+{
+    "name": "isudakoff/yii2-dadata-suggestions",
+    "description": "Yii2 DaData Suggestions",
+    "keywords": [
+        "yii",
+        "yii2",
+        "dadata",
+        "suggest",
+        "suggestion",
+        "suggestions",
+        "address",
+        "adres",
+        "adress",
+        "addres"
+    ],
+    "homepage": "https://github.com/isudakoff/yii2-dadata-suggestions",
+    "type": "yii2-extension",
+    "license": "MIT",
+    "version": "0.0.1",
+    "authors": [
+        {
+            "name": "Ilya Sudakov",
+            "email": "isudakoff@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7",
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "isudakoff\\dadata\\": "src"
+        }
+    },
+    "minimum-stability": "dev"
+}
